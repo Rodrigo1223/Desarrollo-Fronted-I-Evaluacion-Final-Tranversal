@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Cyber Odyssey",
+    "category": "RPG",
+    "price": 39990,
+    "rating": 5,
+    "description": "Un juego de rol de mundo abierto ambientado en una metrópolis futurista y ciberpunk.",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Galactic Warfare",
+    "category": "Acción",
+    "price": 29990,
+    "rating": 4,
+    "description": "Shooter en primera persona con intensas batallas espaciales multijugador.",
+    "image": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Speed Legends",
+    "category": "Deportes",
+    "price": 24990,
+    "rating": 4,
+    "description": "Simulador de carreras arcade con físicas realistas y vehículos altamente personalizables.",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=600&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Mystic Realms",
+    "category": "RPG",
+    "price": 34990,
+    "rating": 5,
+    "description": "Explora mazmorras oscuras y derrota criaturas mitológicas en este RPG de fantasía.",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=600&auto=format&fit=crop"
+  }
+]
